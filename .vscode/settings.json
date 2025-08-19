@@ -1,0 +1,41 @@
+{
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "agrc",
+    "AGRCGLOBAL",
+    "autoplay",
+    "BASEMERIDIAN",
+    "citytown",
+    "cooldown",
+    "dgts",
+    "FACNAME",
+    "firebaserc",
+    "fullscreen",
+    "gcdb",
+    "hostingchannels",
+    "MILEMARKER",
+    "nosniff",
+    "PECSFZVT",
+    "plss",
+    "SAMEORIGIN",
+    "sfdx",
+    "SNUM",
+    "Ssearch",
+    "startcase",
+    "ugrc",
+    "usehooks",
+    "utahdeqorg",
+    "VITE",
+    "ZIPCITY"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[xml]": {
+    "editor.defaultFormatter": "DotJoshJohnson.xml"
+  }
+}
