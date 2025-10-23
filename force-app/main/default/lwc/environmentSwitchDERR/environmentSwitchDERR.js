@@ -1,7 +1,7 @@
 import getSandboxFlag from "@salesforce/apex/CheckIfSandbox.getSandboxFlag";
 import { api, LightningElement, track, wire } from "lwc";
 
-export default class EnvironmentSwitch extends LightningElement {
+export default class EnvironmentSwitchDERR extends LightningElement {
   @api recordId; // special prop that is automatically set from the current record
   isValueLoaded = false;
   @track isSandbox = false;

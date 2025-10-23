@@ -7,7 +7,7 @@ import { ShowToastEvent } from "lightning/platformShowToastEvent";
 import { getRecord, updateRecord } from "lightning/uiRecordApi";
 import { api, LightningElement, wire } from "lwc";
 
-export default class Spills extends LightningElement {
+export default class DERRMap extends LightningElement {
   utm_x;
   utm_y;
   @api recordId;
