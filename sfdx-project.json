@@ -7,6 +7,6 @@
   ],
   "name": "tanks-map",
   "namespace": "",
-  "sfdcLoginUrl": "https://utahdeqorg--eid.sandbox.my.salesforce.com/",
+  "sfdcLoginUrl": "https://utahdeqorg--derrdev.sandbox.my.salesforce.com/",
   "sourceApiVersion": "62.0"
 }
