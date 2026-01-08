@@ -53,6 +53,8 @@ export default class DERRMap extends LightningElement {
       return `https://tanksmap.dev.utah.gov?embedded=true`; // staging
     } else if (this.isSandbox === false) {
       return `https://tanksmap.deq.utah.gov?embedded=true`; // prod
+    } else {
+      console.warn("salesforce: isSandbox is undefined");
     }
 
     return null;
