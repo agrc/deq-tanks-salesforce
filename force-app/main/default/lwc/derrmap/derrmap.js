@@ -139,6 +139,7 @@ export default class DERRMap extends LightningElement {
     this.refs.iframe.contentWindow.postMessage(
       {
         data: {
+          ID: this.recordId,
           UTM_X: parseInt(this.utm_x, 10),
           UTM_Y: parseInt(this.utm_y, 10)
         },
