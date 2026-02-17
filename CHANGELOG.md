@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/agrc/deq-tanks-salesforce/compare/v1.0.1...v1.0.2) (2026-02-17)
+
+
+### Dependencies
+
+* **dev:** bump the safe-dependencies group with 8 updates ([2bbcd4f](https://github.com/agrc/deq-tanks-salesforce/commit/2bbcd4f26974b2210edaeb8b8d7a8f3890aca375))
+
 ## [1.0.1](https://github.com/agrc/deq-tanks-salesforce/compare/v1.0.0...v1.0.1) (2025-11-11)
 
 
