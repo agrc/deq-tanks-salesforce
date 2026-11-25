@@ -1,5 +1,7 @@
 # DEQ Tanks Salesforce Component
 
+Contact: Alex Thompson
+
 This project is a [Salesforce Lightning Web Component](https://developer.salesforce.com/docs/component-library/documentation/en/lwc) that embeds a Firebase web application via an iframe. It also includes a simple `environmentSwitch` component that allows us to switch between the production and development Urls in the iframe.
 
 It is a stripped down version of a [similar component](https://github.com/agrc/deq-spills) used in the DEQ Spills Salesforce instance and references the same firebase web application via project-specific domains:
